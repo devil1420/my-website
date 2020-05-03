@@ -4,4 +4,4 @@ This is my first website
 
 Updated the file for updated-readme branch
 
-Updated locally, then remotely
+Updated on GitHub on Master before Rebased
