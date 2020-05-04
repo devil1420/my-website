@@ -5,4 +5,3 @@ This is my first website
 Updated the file for updated-readme branch
 
 Local changes
-This will lead to conflict
